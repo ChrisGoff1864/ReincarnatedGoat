@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @ReincarnatedGoat
-- 👀 I’m interested in Computer Science and programming project that both better the future and push me to be a better sofware developer.
-- 🌱 I’m currently learning more about web programming after realizing that it is one of my weaknesses as a coder.
+- 👋 Hi, I’m Chris Goff
+- 👀 I’m interested in Computer Science and programming project that both better the future and push me to be a better sofware developer.\
 - 💞️ I’m looking to collaborate on anything I want to.
 - 📫 How to reach me ... clgo237@uky.edu
 
